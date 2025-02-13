@@ -27,6 +27,23 @@
 - Onboarded subject matter experts (SMEs) in AI, Data Science, and Cloud Technology, collaborating to develop high-quality, data-backed learning content.
 - Used natural language processing (NLP) on learner feedback to refine course material, leading to a 15% improvement in learner satisfaction scores.
 
+## Key Skills
+# AI & Data Science Skills
+
+| **Category**                     | **Skills & Tools**                                                                                  |
+|-----------------------------------|--------------------------------------------------------------------------------------------------|
+| **Machine Learning & AI**         | Machine Learning, Deep Learning, Generative AI, Large Language Models (LLMs), Recommender Systems, Predictive Modeling, Statistical Modeling, One-Class SVM, Anomaly Detection |
+| **Natural Language Processing (NLP)** | Natural Language Processing (NLP), Prompt Engineering, AI-Powered Chatbots, Text Generation (LLaMA, OpenAI API, Gemini API) |
+| **Computer Vision & OCR**         | Computer Vision, YOLO (You Only Look Once), OCR (Optical Character Recognition), Image Processing, PaddleOCR, EasyOCR, Tesseract |
+| **Frameworks & Libraries**        | TensorFlow, PyTorch, Scikit-Learn, Keras, NumPy, Pandas, SciPy, Matplotlib, OpenCV, Regex for Text Extraction |
+| **Data Science & Analytics**      | SQL, Tableau, Excel, Data Modeling, Data Visualization, Data Analytics |
+| **Cloud & Deployment**            | Google Cloud Platform (GCP), App Engine, Cloud Run, Docker, Containerization, FastAPI, REST APIs, Google Colab |
+| **Software Development & APIs**   | Flask, Angular, LangChain, FastAPI, API Integration, Web App Development, ngrok for Deployment |
+| **Advanced Techniques**           | Transfer Learning, Transformers, Pattern Recognition, Retrieval-Augmented Generation (RAG), Model Optimization, Fine-Tuning Models |
+
+
+
+
 
 
 
