@@ -15,6 +15,18 @@
 - Supported the team developing Salud Interactiva's AI chatbot by designing 10+ process flows for appointment booking, ambulance booking, and other healthcare services.
 - Created 5+ interactive dashboards using SQL and Tableau to display real-time insights on consultations, ambulance availability, and key healthcare metrics
 
+### Instructional Designer & Data Analyst || iNurture Education Solutions Pvt Ltd || Jan-2023 to Dec-2023
+- Conducted data-driven analysis on 1,00,000+ Learning Management System (LMS) records, identifying trends in student engagement, content consumption, and learning patterns to enhance course effectiveness.
+- Applied data science techniques, including clustering and predictive analytics, to forecast student performance and recommend personalized learning paths, improving course completion rates by 30%.
+- Directed teams to develop and refine course content for AI, Data Science, and Cloud Technology, using sentiment analysis and learner feedback analytics, resulting in a 25% increase in engagement.
+- Created interactive dashboards using SQL and Tableau to monitor real-time learner progress, engagement trends, and dropout rates, enabling data-driven decision-making for content improvements.
+
+### Senior Associate Content Strategist || upGrad Campus Pvt Ltd || Aug-2021 to Dec-2022
+- Analyzed data from 10,000+ learners, using data-driven insights to identify learning requirements, optimize course structure, and enhance content effectiveness.
+- Applied machine learning models and statistical analysis to detect learning trends, improving course personalization and increasing engagement by 20%.
+- Onboarded subject matter experts (SMEs) in AI, Data Science, and Cloud Technology, collaborating to develop high-quality, data-backed learning content.
+- Used natural language processing (NLP) on learner feedback to refine course material, leading to a 15% improvement in learner satisfaction scores.
+
 
 
 
