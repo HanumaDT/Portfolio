@@ -40,6 +40,17 @@
 | **Software Development & APIs**   | Flask, Angular, LangChain, FastAPI, API Integration, Web App Development, ngrok for Deployment |
 | **Advanced Techniques**           | Transfer Learning, Transformers, Pattern Recognition, Retrieval-Augmented Generation (RAG), Model Optimization, Fine-Tuning Models |
 
+## Education
+### Indian Institute of Technology, Guwahati
+- M.tech in Mechanical Engineering
+- July 2019 - June 2021
+- Skills Acquired: Python, C, MATLAB, Advanced Mathematics, Soft Computing, Data Analysis
+
+### Rajiv Gandhi University of Knowledge Technologies, Nuzvid
+- B.tech in Mechanical Engineering
+- July 2014 - May 2018
+- Skill Acquired: Python, C, Robotics
+
 
 
 
