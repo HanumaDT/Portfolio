@@ -39,6 +39,7 @@
 | **Cloud & Deployment**            | Google Cloud Platform (GCP), App Engine, Cloud Run, Docker, Containerization, FastAPI, REST APIs, Google Colab |
 | **Software Development & APIs**   | Flask, Angular, FastAPI, API Integration, Web App Development, ngrok for Deployment |
 | **AI Agents & Frameworks**        | Langchain, Langgraph, n8n, Amazon bedrock, Google's ADK, MCP (Model context protocol), A2A (Agent-to-Agent protocol) |
+| **AI Tools for App Development**  | V0 by vercel, Replit ai, Cursor, Bolt.new, Tempo labs, Lovable, Onlook, Windsurf by Codeium |
 | **Advanced Techniques**           | Transfer Learning, Transformers, Pattern Recognition, Retrieval-Augmented Generation (RAG), Model Optimization, Prompt Engineering, Fine-Tuning Models |
 
 ## Education
