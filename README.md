@@ -3,7 +3,7 @@
 ## Experience
 ### AI Engineer || SNAD Developers India Pvt Ltd || Oct-2024 to Present
 - Developed 10+ AI-powered applications using Machine Learning, Deep Learning, and NLP, including OCR-based document processing with 90%+ accuracy and chatbots handling unlimited queries monthly.
-- Worked extensively with computer vision using YOLOv8, PaddleOCR, and EasyOCR, extracting information from Aadhaar and PAN cards, improving data extraction accuracy by 15%.
+- Worked extensively with computer vision using YOLOv8, PaddleOCR, and EasyOCR, extracting information from Aadhaar and PAN cards, improving data extraction accuracy by 15% more.
 - Built and integrated LLM-based text generation models like LLaMA, OpenAI API, and Gemini API, enabling chatbots to automate 80% of customer interactions and generating 100,000+ words of automated content.
 - Designed and deployed 5+ web applications using Flask, Angular, and Google Colab, optimizing API integration and UI/UX, resulting in a 30% faster response time and improved user experience.
 - Implemented real-time CPU monitoring solutions and One-Class SVM-based anomaly detection, identifying 95%+ anomalies correctly and enhancing server performance monitoring across multiple environments.
