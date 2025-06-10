@@ -37,8 +37,9 @@
 | **Frameworks & Libraries**        | TensorFlow, PyTorch, Scikit-Learn, Keras, NumPy, Pandas, SciPy, Matplotlib, OpenCV, Regex for Text Extraction |
 | **Data Science & Analytics**      | SQL, Tableau, Excel, Data Modeling, Data Visualization, Data Analytics |
 | **Cloud & Deployment**            | Google Cloud Platform (GCP), App Engine, Cloud Run, Docker, Containerization, FastAPI, REST APIs, Google Colab |
-| **Software Development & APIs**   | Flask, Angular, LangChain, FastAPI, API Integration, Web App Development, ngrok for Deployment |
-| **Advanced Techniques**           | Transfer Learning, Transformers, Pattern Recognition, Retrieval-Augmented Generation (RAG), Model Optimization, Fine-Tuning Models |
+| **Software Development & APIs**   | Flask, Angular, FastAPI, API Integration, Web App Development, ngrok for Deployment |
+| **AI Agents & Frameworks**        | Langchain, Langgraph, n8n, Amazon bedrock, Google's ADK, MCP (Model context protocol), A2A (Agent-to-Agent protocol) |
+| **Advanced Techniques**           | Transfer Learning, Transformers, Pattern Recognition, Retrieval-Augmented Generation (RAG), Model Optimization, Prompt Engineering, Fine-Tuning Models |
 
 ## Education
 ### Indian Institute of Technology, Guwahati
